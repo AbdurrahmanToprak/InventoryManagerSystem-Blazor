@@ -1,0 +1,12 @@
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Abdurrahman TOPRAK\Desktop\ASP.Net_Project\InventoryManagerSystem-Blazor\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
