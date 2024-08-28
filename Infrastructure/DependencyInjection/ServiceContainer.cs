@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 
 using Microsoft.AspNetCore.Identity;
+using Infrastructure.Repository;
 
 namespace Infrastructure.DependencyInjection
 {
@@ -34,6 +35,8 @@ namespace Infrastructure.DependencyInjection
 				 adp.RequireAuthenticatedUser();
 				 adp.RequireRole("User");
 			 });
+			services.AddCascadingAuthenticationState();
+			services.AddScoped<Application.Interface.Identity.IAccount, Account>();
 			return services;
 		}
 	}
