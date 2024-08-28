@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6zAxKfUwyi+1TdfEBRn7vKzPXILcFU/EU+9eIzg5LU0=",
+  "Hash": "ezP9ERZPNxbn1x0K+D4Il4r2CYSYQHeSsyMf6BrmhB8=",
   "Source": "WebUI",
   "BasePath": "_content/WebUI",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebUI\\wwwroot",
       "Source": "WebUI",
-      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "Pattern": "**"
     }
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "C:\\Users\\Abdurrahman TOPRAK\\.nuget\\packages\\syncfusion.blazor.themes\\25.1.35\\staticwebassets\\tailwind-dark.css"
     },
     {
-      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebUI.styles.css",
+      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebUI.styles.css",
       "SourceId": "WebUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "WebUI.styles.css",
       "AssetKind": "All",
@@ -2180,13 +2180,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebUI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebUI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebUI.bundle.scp.css",
+      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebUI.bundle.scp.css",
       "SourceId": "WebUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "WebUI.bundle.scp.css",
       "AssetKind": "All",
@@ -2199,13 +2199,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebUI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebUI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\app.css",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\favicon.png",
       "SourceId": "WebUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\WebUI\\wwwroot\\",
       "BasePath": "_content/WebUI",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

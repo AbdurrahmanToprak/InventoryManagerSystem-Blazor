@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JyqIG8JDl6E=",
+  "dgSpecHash": "o0IPlIGvh8k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdurrahman TOPRAK\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Abdurrahman TOPRAK\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

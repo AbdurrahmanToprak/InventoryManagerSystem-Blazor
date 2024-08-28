@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj": {
+    "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Abdurrahman TOPRAK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdurrahman TOPRAK\\AppData\\Roaming\\NuGet\\NuGet.Config",

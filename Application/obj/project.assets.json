@@ -235,6 +235,16 @@
         "runtime": {
           "lib/net8.0/NetcodeHub.Packages.Extensions.Attributes.RequiredGuid.dll": {}
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -634,10 +644,16 @@
         "netcodehub.packages.extensions.attributes.requiredguid.1.0.0.nupkg.sha512",
         "netcodehub.packages.extensions.attributes.requiredguid.nuspec"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Domain >= 1.0.0",
       "MediatR >= 12.2.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.1",
       "Microsoft.Extensions.Identity.Stores >= 8.0.3",
@@ -650,11 +666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Abdurrahman TOPRAK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdurrahman TOPRAK\\Desktop\\ASP.Net_Project\\InventoryManagerSystem-Blazor\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abdurrahman TOPRAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -671,7 +687,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Abdurrahman TOPRAK\\Source\\Repos\\InventoryManagerSystem-Blazor\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

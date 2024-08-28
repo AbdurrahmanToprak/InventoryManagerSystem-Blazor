@@ -1,0 +1,24 @@
+﻿using Application.DTO.Response;
+using Application.DTO.Response.Identity;
+using Application.DTO.Request.Identity;
+
+
+namespace Application.Interface.Identity
+{
+	public interface IAccount
+	{
+		Task<ServiceResponse> LoginAsync(LoginUserRequestDTO model);
+		Task<ServiceResponse> CreateUserAsync(CreateUserRequestDTO model);
+
+		Task<IEnumerable<GetUserWithClaimResponseDTO>> GetUserWithClaimAsync();
+
+		Task SetUpAsync();
+
+		Task<ServiceResponse> UpdateUserAsync(ChangeUserClaimRequestDTO model);
+
+		//Task SaveActivityAsync(ActivityTrackerRequestDTO model);
+
+		//Task<IEnumerable<ActivityTrackerResponseDTO>> GetActivitiesAsync();
+
+	}
+}
