@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "WebUI.Components.Layout.Identity.SignOutEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapSignOutEndpoint\u003Eb__0_0",
+    "RelativePath": "Account/Logout",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

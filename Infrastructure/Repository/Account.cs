@@ -27,8 +27,8 @@ namespace Infrastructure.Repository
 				var newUser = new ApplicationUser()
 				{
 					UserName = model.Email,
-					Email = user.Email,
-					PasswordHash = user.Password,
+					Email = model.Email,
+					PasswordHash = model.Password,
 					Name = model.Name,
 
 				};
