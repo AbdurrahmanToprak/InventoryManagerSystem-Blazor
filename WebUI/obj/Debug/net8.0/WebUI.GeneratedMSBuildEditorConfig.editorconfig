@@ -26,6 +26,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcSWRlbnRpdHlcQXV0aGVudGljYXRpb25MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Layout/Identity/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcSWRlbnRpdHlcUmVkaXJlY3RUb0xvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Pages/Content/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250ZW50XEhvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +44,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Pages/Identity/AccessDenied.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJZGVudGl0eVxBY2Nlc3NEZW5pZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Pages/Identity/AuthenticationPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJZGVudGl0eVxBdXRoZW50aWNhdGlvblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Pages/Identity/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJZGVudGl0eVxMb2dpblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Pages/Identity/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJZGVudGl0eVxfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Abdurrahman TOPRAK/Source/Repos/InventoryManagerSystem-Blazor/WebUI/Components/Pages/Weather.razor]
